@@ -4,6 +4,9 @@
   "description": "An adapter for our Contentful.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/Klimatsekretariatet/contentful-adapter"
+  },
   "scripts": {
     "build": "rm -rf ./dist && tsc",
     "test": "jest"

@@ -1,6 +1,8 @@
-# Contentful Adapter (WIP)
+# Contentful Adapter
 
 An adapter for fetching and parsing content from the Contentful API.
+
+Note: For internal usage. Use at your own risk.
 
 ````typescript
 import { createAdapter } from 'xxx'
