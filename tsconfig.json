@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "target": "ES2015",
+        "declaration": true,
+        "outDir": "./dist",
+        "moduleResolution": "Node",
+        "esModuleInterop": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "src/**/*.test.ts",
+        "src/mock/**/*"
+    ]
+}
