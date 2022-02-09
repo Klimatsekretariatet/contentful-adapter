@@ -1,4 +1,4 @@
-# Contentful Adapter
+# Contentful Adapter (DEPRECATED)
 
 An adapter for fetching and parsing content from the Contentful API.
 
